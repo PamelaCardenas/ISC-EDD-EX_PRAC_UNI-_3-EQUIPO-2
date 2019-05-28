@@ -9,7 +9,13 @@ import java.util.Scanner;
 
 /**
  * 
- * @author admin
+ * @author INTEGRANTES DEL EQUIPO:
+
+	---> Luisa María González Ordóñez 18550352
+	---> Karla Pamela Cárdenas Leyva 18550338
+	---> Josué David Martínez García 18550360
+	---> Roberto Antonio Pedroza Fernández 18550354
+	---> Irving Gerardo Mancera Mejía 18550317
  */
 public class Lista {
     //Inicio de la lista
